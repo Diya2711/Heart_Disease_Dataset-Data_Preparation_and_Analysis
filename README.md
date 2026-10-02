@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Dataset – Data Preparation and Analysis
+# 🫀 Heart Disease Dataset – Data Preparation and Analysis
 
 ## 📌 Project Overview
 
